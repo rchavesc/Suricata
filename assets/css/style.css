@@ -1,0 +1,33 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #212529;
+}
+
+nav, footer {
+    background: #e83e8c;
+}
+
+h1 {
+    color: #707070;
+}
+
+
+.logosize {
+    width: 132px;
+    height: 53px;
+}
+
+.logofooter {
+    width: 53.32px;
+    height: 100.45px;
+}
+
+h1, h2, h5 {
+    font-weight: 700;
+}
+
+
+a:link, a:visited, a:hover, a:active, .card-link {
+    text-decoration: none;
+}
